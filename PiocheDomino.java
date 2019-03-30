@@ -1,3 +1,5 @@
+// Permet la création et le mélange du jeu de pièces
+
 import java.lang.Math;
 import java.util.ArrayList;
 

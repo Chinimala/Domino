@@ -110,6 +110,6 @@ public class JeuDomino
       if (joueur == jeu.nbJoueurs + 1) joueur = 1;
     }
     
-    System.out.println("La partie est terminée : le joueur " + jeu.gagnant + " a gagné !");
+    System.out.println("La partie est terminée : le joueur " + jeu.gagnant + " a gagné ! Bravo !");
   }
 }
